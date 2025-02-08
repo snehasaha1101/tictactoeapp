@@ -2,7 +2,10 @@
 
 ## Overview
 Tic-Tac-Toe is a simple two-player game where players take turns marking a 3x3 grid with their respective symbols ("X" and "O"). The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
-<img width="174" alt="image" src="https://github.com/user-attachments/assets/ec6cac00-88d7-47ea-bcfd-cc2e229ee416" />
+
+<p align="right">
+  <img width="174" alt="image" src="https://github.com/user-attachments/assets/ec6cac00-88d7-47ea-bcfd-cc2e229ee416" />
+</p>
 
 ## Features
 - Two-player mode
@@ -18,4 +21,3 @@ Tic-Tac-Toe is a simple two-player game where players take turns marking a 3x3 g
 - **JavaScript**: Game logic and interactivity
 
 Enjoy playing Tic-Tac-Toe!
-
