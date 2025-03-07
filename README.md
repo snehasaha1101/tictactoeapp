@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-##Live Demo
+## Live Demo
 https://snehasaha1101.github.io/tictactoeapp/
 <table>
   <tr>
